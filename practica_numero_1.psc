@@ -11,5 +11,6 @@ Algoritmo litro_consumido
 	escribir "Su consumo es de ", litrosconsumidos " km/litro"
 	
 	Escribir "hola"
+	Escribir "Este cambio es desde la maquina de Steven"
 	
 FinAlgoritmo
