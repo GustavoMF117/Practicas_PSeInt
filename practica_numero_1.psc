@@ -12,5 +12,6 @@ Algoritmo litro_consumido
 	
 	Escribir "hola"
 	Escribir "Este cambio es desde la maquina de Steven"
+	Escribir "HOla"
 	
 FinAlgoritmo
