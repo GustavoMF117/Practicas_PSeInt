@@ -10,6 +10,6 @@ Algoritmo litro_consumido
 	
 	escribir "Su consumo es de ", litrosconsumidos " km/litro"
 	
-	Escribir ""
+	Escribir "hola"
 	
 FinAlgoritmo
